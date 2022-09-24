@@ -1,0 +1,19 @@
+.noFound {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.noFound h2 {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.refreshBtn {
+  color: #fff;
+  background: #49a6e9;
+  padding: 4px 7px;
+  font-weight: 500;
+  border-radius: 5px;
+}

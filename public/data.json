@@ -1,0 +1,156 @@
+[
+  {
+    "id": "01",
+    "name": "Eiffel Tower",
+    "info": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Locally nicknamed La dame de fer, it was constructed from 1887 to 1889 as the centerpiece of the 1889 World's Fair.",
+    "img": "https://images.unsplash.com/photo-1500313830540-7b6650a74fd0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "12000"
+  },
+  {
+    "id": "02",
+    "name": "Colosseum",
+    "info": "The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.",
+    "img": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=796&q=80",
+    "price": "8000"
+  },
+  {
+    "id": "03",
+    "name": "Hagia Sophia",
+    "info": "Hagia Sophia, officially the Hagia Sophia Grand Mosque, is a mosque and major cultural and historical site in Istanbul, Turkey. Originally a Greek Orthodox church, the site has changed between being a mosque and a museum since the fall of the Byzantine Empire.",
+    "img": "https://images.unsplash.com/photo-1636021597151-cc28dacd915c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+    "price": "9100"
+  },
+  {
+    "id": "04",
+    "name": "Mount Fuji, Japan",
+    "info": "Although Mount Fuji is an active stratovolcano, it hasn't erupted since 1708. The stunning snowcapped mountain is one of Japan's Three Holy Mountains, which are traditionally considered to hold a particular power–Mount Fuji has volcanic power.",
+    "img": "https://images.unsplash.com/photo-1578271887552-5ac3a72752bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+    "price": "10100"
+  },
+  {
+    "id": "05",
+    "name": "Phuket, Thailand",
+    "info": "Thailand's biggest island is also a magnet for visitors–and for good reason. Phuket boasts some of the best beaches in the country, with clean, soft, rolling sands and turquoise waters as far as the eye can see. Kata, Hat Karon, and Kamala beaches see a lot of tourists during the high season (November to February) but remain sleepy little villages once the rains arrive. Beautiful coral reefs line up the coastline, offering amazing opportunities for snorkeling and diving but also sea kayaking and island hopping.",
+    "img": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=839&q=80",
+    "price": "13600"
+  },
+  {
+    "id": "06",
+    "name": "Marina Bay Sands",
+    "info": "While up there on top of the city, guests can grab a snack or a coffee at the rooftop restaurant or pick up some keepsakes from the souvenir stand. You can purchase a photo of yourself green-screened in front of the massive hotel as it's all lit up at night, but the cost is steep at 50 Singapore dollars–better to ask a fellow tourist to snap a photo of you if possible. The elegant opulence of the Marina Bay Sands exemplifies Singapore's style and status as a major international city in Southeast Asia.",
+    "img": "https://images.unsplash.com/flagged/photo-1562503542-2a1e6f03b16b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "price": "21700"
+  },
+  {
+    "id": "07",
+    "name": "Sundarbans",
+    "info": "Sundarbans has declared World Heritage Site by UNESCO which is the largest Mangrove Forest situated between two countries. It is the kingdom of Royal Bengal tiger and you will find various kinds of species of birds, animals & plants and I think you should visit the tranquilizing beauty of Sundarbans once in your life.",
+    "img": "https://images.unsplash.com/photo-1551615577-1c7e180a77ac?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=967&q=80",
+    "price": "3000"
+  },
+  {
+    "id": "08",
+    "name": "Bisanakandi",
+    "info": "Undoubtedly it is a great sign of natural beauty surrounded by hills and stones. For its natural beauty, it has become a popular tourist center in Bangladesh. It is situated at the Bangladesh-Sylhet border in Sylhet. In the rainy season it looks like the clouds hugging the mountains, so, winter is not a suitable season for visiting.",
+    "img": "https://touristplace.bangladeshinformation.info/wp-content/uploads/sites/7/2018/03/Bisanakandi.jpg",
+    "price": "2500"
+  },
+  {
+    "id": "09",
+    "name": "Sajek Valley",
+    "info": "If you want to see the land of the cloud in Bangladesh then you have to visit the queen of hills, Sajek Valley. Visiting this place will fulfill your dream of walking through the clouds. This is the best tourist spot in Bangladesh. The experience of going to Sajek by zigzag road through the cloud is really great. It is also called the roof of Rangamati because it is surrounded by hills. The valley is 1800 feet above from the sea level. If you are lucky enough, you can enjoy three forms of nature in a day.",
+    "img": "https://images.unsplash.com/photo-1658383895221-173f07c6a9d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "4000"
+  },
+  {
+    "id": "10",
+    "name": "Patenga Sea Beach",
+    "info": "If you want to get away from busy city life then you can visit Patenga Sea Beach to enjoy the Bay of Bengal and the charming sunset. You can enjoy a water drive or boat trip here. There are also other entertainment facilities like a bike ride, horse ride, kites, etc. But the beach is narrow so it is better not to swim here.",
+    "img": "https://blog.flyticket.com.bd/wp-content/uploads/2020/05/image036.jpg",
+    "price": "1200"
+  },
+  {
+    "id": "11",
+    "name": "Kuakata Sea Beach",
+    "info": "Kuakata Sea Beach is a panoramic sea beach with 30 kilometers of picturesque landscape located at Lotachapli, Kolapara, Patuakhali. It’s a unique beach where you can be witnessed of both sunrise & sunset, not only that you can enjoy the beauty of Jhauban which is covered by coconut trees.",
+    "img": "https://images.unsplash.com/photo-1601560496330-b654cca141d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "price": "5400"
+  },
+  {
+    "id": "12",
+    "name": "St. Martin Island",
+    "info": "St. Martin's Island is a small island in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula, and forming the southernmost part of Bangladesh. There is a small adjoining island that is separated at high tide, called Chera Dwip.",
+    "img": "https://images.unsplash.com/photo-1585501296541-c2af5630245f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "13000"
+  },
+  {
+    "id": "13",
+    "name": "Cox’s Bazar",
+    "info": "Cox's Bazar sea beach is the longest sea beach in the world, 120 km long. Cox's Bazar is a town, a fishing port and district headquarters in Bangladesh. It is known for its wide sandy beach which is considered by some people as the world's longest natural sandy sea beach.",
+    "img": "https://images.unsplash.com/photo-1592321025971-b51d70f8ce17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "price": "9400"
+  },
+  {
+    "id": "14",
+    "name": "Luang Prabang, Laos",
+    "info": "Luang Prabang, the ancient capital of Luang Prabang Province in northern Laos, lies in a valley at the confluence of the Mekong and Nam Khan rivers. Inhabited for thousands of years, it was the royal capital of the country until 1975. It’s known for its many Buddhist temples, including the gilded Wat Xieng Thong, dating to the 16th century, and Wat Mai, once the residence of the head of Laotian Buddhism.",
+    "img": "https://images.unsplash.com/photo-1633984814807-672768a6923d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+    "price": "15000"
+  },
+  {
+    "id": "15",
+    "name": "Bali, Indonesia",
+    "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium expedita repudiandae enim numquam, a quo eveniet sunt eius est dolores.",
+    "img": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "17000"
+  },
+  {
+    "id": "16",
+    "name": "The Taj Mahal, Agra",
+    "info": "Perhaps India's most recognizable building, the Taj Mahal is also the world's most famous testimony to the power of love. Named after Mumtaz Mahal, the favorite wife of Emperor Shah Jahan, this most beautiful of mausoleums was begun upon her death in 1631 and took 20,000 workmen until 1648 to complete. Incorporating many elements of Islamic design including arches, minarets, an onion-shaped dome, and black calligraphy inlaid around the entrance, the Taj Mahal is largely constructed of white marble. Adding to its splendor are delicate inlaid floral patterns and precious and semi-precious stones such as jade, lapis lazuli, diamonds, and mother of pearl.",
+    "img": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "price": "12400"
+  },
+  {
+    "id": "17",
+    "name": "The Beaches of Goa",
+    "info": "Long known within India as the go-to destination for those seeking a great beach holiday, Goa's beautiful western coastline, overlooking the Arabian Sea, has only recently been discovered by tourists from overseas. Goa's more than 60 miles of coastline is home to some of the world's loveliest beaches, each with their own particular appeal. For those looking for peace and quiet, isolated Agonda Beach is a good choice, while Calangute Beach is by far the most commercial and crowded. For those in search of posh resorts, yoga getaways, and spa vacations, the beaches of Mandrem, Morjim, and Ashwem are fashionable among wealthy Indians and Westerners alike. Palolem is another one of Goa's popular beaches in a beautiful setting.",
+    "img": "https://images.unsplash.com/photo-1584111728495-7d9599602355?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1033&q=80",
+    "price": "13800"
+  },
+  {
+    "id": "18",
+    "name": "Darjeeling",
+    "info": "Darjeeling is a town in India's West Bengal state, in the Himalayan foothills. Once a summer resort for the British Raj elite, it remains the terminus of the narrow-gauge Darjeeling Himalayan Railway, or “Toy Train,” completed in 1881. It's famed for the distinctive black tea grown on plantations that dot its surrounding slopes. Its backdrop is Mt. Kanchenjunga, among the world’s highest peaks.",
+    "img": "https://images.unsplash.com/photo-1515696955266-4f67e13219e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "price": "16500"
+  },
+  {
+    "id": "19",
+    "name": "Jammu and Kashmir",
+    "info": "Sonmarg or 'the meadow of gold' has one of the most picturesque views in Kashmir. Snow-clad mountains, green grasslands and ponies to ride on, this place is what they call, 'Jannat' or heaven. Sonmarg is also one of the base points for starting the Amarnath Yatra.",
+    "img": "https://images.unsplash.com/photo-1595815771614-ade9d652a65d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "16800"
+  },
+  {
+    "id": "20",
+    "name": "Ladakh",
+    "info": "Existential queries or not, self-introspection or not, the mountains are the place for you to meditate with your eyes wide open. On the mountains, it is easier to abandon oneself in the act of smiling and laughing at how details of life reprioritize. It’s not that you go to the mountains to flee from something; you climb a mountain to find something.",
+    "img": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": "14900"
+  },
+  {
+    "id": "21",
+    "name": "Mount Everest",
+    "info": "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. The China–Nepal border runs across its summit point. Its elevation of 8,848.86 m was most recently established in 2020 by the Chinese and Nepali authorities.",
+    "img": "https://images.unsplash.com/photo-1575819719798-83d97dd6949c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+    "price": "17300"
+  },
+  {
+    "id": "22",
+    "name": "Niagara Falls",
+    "info": "Situated along the Canada-US border, Niagara Falls is one of the most famous waterfalls in the world. The water from Lake Erie flows into Lake Ontario over these massive waterfalls, known for the great quantity of water that is constantly tumbling over the vertical drop. Niagara Falls is actually a set of three falls: It consists of the largest section, known as Horseshoe Falls, with a drop of 187 feet; a second section on the American side of the river, known as the American Falls, with a drop of 89 feet; and a much thinner section located next to the American Falls, known as Bridal Veil Falls, with a drop of 78 feet.",
+    "img": "https://images.unsplash.com/photo-1606516397986-1eeb79e8c052?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=864&q=80",
+    "price": "20000"
+  }
+]
